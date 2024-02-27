@@ -1,0 +1,32 @@
+.explore{
+  
+    padding-top: 50px;
+    background-color: #fff;
+
+}
+
+.explore-txt{
+  text-align: center;
+padding: 40px;
+
+    width: 20%;
+
+}
+.explore-txt p{
+    margin-top: 20px;
+}
+.explore-txt button{
+    margin-top: 10px;
+    padding: 10px 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.chair_img{
+    /* max-width: 50% */
+    width: 100%;
+    height: 70%;
+}
